@@ -86,6 +86,7 @@ brew cask install font-jetbrains-mono
 brew cask install google-chrome
 brew cask install firefox
 brew cask install microsoft-edge
+brew cask install opera
 
 # Music / Video
 brew cask install spotify
@@ -95,10 +96,18 @@ brew cask install vlc
 brew cask install evernote                                                                            # cloud note
 brew cask install kap                                                                                 # video screenshot
 brew cask install rectangle                                                                           # manage windows
+brew cask install flux
+brew cask install caffeine
+brew cask install teamviewer
 
 # Communication
 brew cask install slack
 brew cask install whatsapp
+brew cask install microsoft-teams
+brew cask install telegram
+brew cask install skype
+brew cask install discord
+brew cask install messenger
 
 # Dev tools
 brew cask install ngrok                                                                               # tunnel localhost over internet.
@@ -107,6 +116,14 @@ brew cask install postman                                                       
 # IDE
 brew cask install jetbrains-toolbox
 brew cask install visual-studio-code
+
+# Databases
+brew install mysql
+brew services start mysql
+brew cask install mysqlworkbench
+
+# Security
+brew cask install keepassx
 
 # Language
 ## Node / Javascript
