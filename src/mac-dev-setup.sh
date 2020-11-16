@@ -99,6 +99,7 @@ brew cask install rectangle                                                     
 brew cask install flux
 brew cask install caffeine
 brew cask install teamviewer
+brew cask install mark-text
 
 # Communication
 brew cask install slack
