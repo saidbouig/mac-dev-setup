@@ -109,6 +109,7 @@ brew cask install telegram
 brew cask install skype
 brew cask install discord
 brew cask install messenger
+brew cask install tweetdeck
 
 # Dev tools
 brew cask install ngrok                                                                               # tunnel localhost over internet.
